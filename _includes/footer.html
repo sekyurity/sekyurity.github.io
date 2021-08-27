@@ -1,0 +1,10 @@
+<footer class="c-page__footer">
+	</hr>
+	{% if page.layout != 'amp' %}
+	</hr></br>
+	{% endif %}
+	<p>&copy; {{ site.author }} {{ 'now' | date: '%Y' }} | Powered by Jekyll</p>
+	{% if page.layout != 'amp' %}
+	</br>
+	{% endif %}
+</footer>
