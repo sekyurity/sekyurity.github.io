@@ -3,6 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-Talk about yourself.
 
-
+### name:minkyu Jung(sekyurity)
+web noob
