@@ -36,3 +36,4 @@ analytics:
   google:
     tracking_id          : "G-D3R9FT6FNS"
     anonymize_ip         : # true, false (default)
+    
